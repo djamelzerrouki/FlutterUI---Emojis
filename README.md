@@ -8,6 +8,8 @@ Design Credit - https://dribbble.com/shots/9094050-Online-Reservation/attachment
 
 How do I code this ? - https://youtu.be/A1ski_fjSlY
 
+## Emojis 
+
 
 ## Screenshots
 
